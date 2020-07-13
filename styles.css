@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(219, 255, 209);
+  font-size: 16px;
+  font-weight: 700;
+  font-family: monospace, Arial, serif;
+}
+
+
+.test-div {
+  margin-left: 25vw;
+  margin-top: 25vh;
+}
+
+.test-paragraph {
+  color: green;
+}
